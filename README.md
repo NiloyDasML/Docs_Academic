@@ -1,1 +1,1 @@
-# Docs_Academic
+# Academic Documents
